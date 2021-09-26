@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Logo_rect</title>
+    <g id="Logo_rect" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(17.000000, 227.000000)" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="bold">
+            <text id="van-der-Vlugt" font-size="80" fill="#000000">
+                <tspan x="0" y="79">van der Vlugt</tspan>
+            </text>
+            <text id="Technology-&amp;-Consult" font-size="32" fill="#A0AEC0">
+                <tspan x="47.624" y="132">Technology &amp; Consultancy</tspan>
+            </text>
+        </g>
+        <g id="icons8-source_code" transform="translate(157.000000, 91.000000)" fill-rule="nonzero">
+            <path d="M145.170732,114 L131.560976,102.625 L162.409756,68.5 L131.560976,34.375 L145.170732,23 L186,68.5 L145.170732,114 Z M40.8292683,114 L0,68.5 L40.8292683,23 L54.4390244,34.375 L23.1365854,68.5 L54.4390244,102.625 L40.8292683,114 Z" id="Shape" fill="#3F51B5"></path>
+            <polygon id="Path" fill="#2196F3" points="77.3235294 136 60 130.106667 104.676471 0 122 5.89333333"></polygon>
+        </g>
+    </g>
+</svg>
